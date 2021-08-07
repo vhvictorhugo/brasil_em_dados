@@ -32,4 +32,4 @@ O objetivo deste trabalho é analisar diversos dados acerca das cidades que engl
 
 
 
-A fonte de dados a ser usada encontra-se [AQUI](https://www.kaggle.com/crisparada/brazilian-cities). Tal fonte de dados utiliza de diversas outras fontes, como o site do IBGE, correios, denatran, etc.
+Fonte: A fonte de dados a ser usada encontra-se [AQUI](https://www.kaggle.com/crisparada/brazilian-cities). Tal fonte de dados utiliza de diversas outras fontes, como o site do IBGE, correios, denatran, etc. Para acessar as fontes usadas pela autora **Cristiana Parada**, basta procurar por "Data Explorer" e clicar na tabela "Data_Dictionary.csv", ao lado será apresentada uma tabela com todas as fontes utilizadas para a separação dos dados.
