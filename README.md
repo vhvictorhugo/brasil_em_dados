@@ -1,7 +1,9 @@
 # Brasil em Dados - Análise Geral das Cidades do Brasil
-**Professor: Fabrício A. Silva**
+Professor: Fabrício A. Silva
 
-**Grupo: André Elias (3013), Thomas Chang (3052) e Victor Hugo (3510)**​
+Grupo: André Elias (3013), Thomas Chang (3052) e Victor Hugo (3510)
+
+
 
 O objetivo deste trabalho é analisar diversos dados acerca das cidades que englobam o território brasileiro e tirar algumas conclusões, conforme os questionamentos a seguir:
 
