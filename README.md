@@ -3,8 +3,6 @@
 
 **Grupo: André Elias (3013), Thomas Chang (3052) e Victor Hugo (3510)**​
 
-
-
 O objetivo deste trabalho é analisar diversos dados acerca das cidades que englobam o território brasileiro e tirar algumas conclusões, conforme os questionamentos a seguir:
 
 
