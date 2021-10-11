@@ -21,7 +21,7 @@ O objetivo deste trabalho é analisar diversos dados acerca das cidades que engl
 11. As cidades que possuem mais hectares de plantação são também as que mais possuem número total de tratores de rodas?
 12. Quais a 3 cidades que mais pagam impostos?
 13. Quais são as maiores cidades que não são capitais? Existem cidades que não são capitais e são maiores do que alguma capital?
-14. Quais cidades/estados que mais produzem safra (agricultura), elas possuem muita mão de obra estrangeira?
+14. Quais estados que mais produzem safra (agricultura), elas possuem muita mão de obra estrangeira?
 15. Quais os tipos mais presentes de companhias nas 30 cidades mais altas do brasil? - Feedback: Altitude mesmo? Qual a hipótese que fez vocês pensarem nessa pergunta?
 16. Existe alguma diferença significativa entre cidades com populações mais jovens e mais velhas?
 17. Qual cidade com a maior taxa de veículos/habitantes? Esse dado pode ter alguma relação com outro dado disponibilizado?
@@ -42,5 +42,5 @@ Feedback 1ª Etapa: Algumas perguntas foram reformuladas conforme o feedback e a
 
 
 
-Etapa 2 (Preparação dos dados): disponibilizada e documentada no notebook [main.ipynb](https://github.com/vhvictorhugo/brasil_em_dados/blob/main/preparacao-dados.ipynb)
+Etapa 2 (Preparação dos dados): disponibilizada e documentada no notebook [main.ipynb](https://github.com/vhvictorhugo/brasil_em_dados/blob/main/main.ipynb)
 
