@@ -11,7 +11,6 @@ O objetivo deste trabalho é analisar diversos dados acerca das cidades que engl
 
 1. Quais cidades possuem maior IDH?
 2. Existe alguma relação entre IDH e algum outro índice (renda, educação, etc)? O que leva um bom IDH?
-3. Cidades que tem maiores despesas municipais tem maiores IDH, Educação, Renda, etc? - cortar
 4. Cidades que possuem maior IDH também  possuem mais residentes?
 5. Quais as melhores cidades para se viver? Elas são capitais? - Feedback: definir o que é "melhor para se viver"
 6. Podemos relacionar diretamente o número de McDonald's com o IDH?
@@ -43,5 +42,5 @@ Feedback 1ª Etapa: Algumas perguntas foram reformuladas conforme o feedback e a
 
 
 
-Etapa 2 (Preparação dos dados): disponibilizada e documentada no notebook [preparacao-dados.ipynb](https://github.com/vhvictorhugo/brasil_em_dados/blob/main/preparacao-dados.ipynb)
+Etapa 2 (Preparação dos dados): disponibilizada e documentada no notebook [main.ipynb](https://github.com/vhvictorhugo/brasil_em_dados/blob/main/preparacao-dados.ipynb)
 
