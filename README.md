@@ -44,3 +44,7 @@ Feedback 1ª Etapa: Algumas perguntas foram reformuladas conforme o feedback e a
 
 Etapa 2 (Preparação dos dados): disponibilizada e documentada no notebook [main.ipynb](https://github.com/vhvictorhugo/brasil_em_dados/blob/main/main.ipynb)
 
+
+
+Apresentação: [Youtube](https://youtu.be/K3LDg77-GKs).
+
