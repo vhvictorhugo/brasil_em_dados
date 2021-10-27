@@ -47,4 +47,3 @@ Etapa 2 (Preparação dos dados): disponibilizada e documentada no notebook [mai
 
 
 Apresentação: [Youtube](https://youtu.be/K3LDg77-GKs).
-
